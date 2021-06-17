@@ -1,2 +1,3 @@
-# homework-test-tungyuping1228
-homework-test-tungyuping1228 created by GitHub Classroom
+# 生醫資料截取與探勘
+
+學習歷程
